@@ -1,0 +1,16 @@
+    {
+    "event": {
+        "eventName": "Test Event Automation",
+        "eventDescription": "This is a test event created for automation testing purposes."
+        
+    },
+    "entry": {
+        "URL": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_Nepal",
+        "entryName": "Test Entry"
+    },
+    "figures":{"reportedNumber":"1000",
+            "textarea":"Test Figure"
+
+    }
+
+    }
