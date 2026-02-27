@@ -49,7 +49,7 @@
         await page.getByTestId('text-area').nth(1).fill(testData.figures.textarea);
         await page.getByRole('button', { name: 'Submit' }).click();
         
-        // await page.waitForTimeout(5000);
+        await page.waitForTimeout(5000);
 
         // //Assertions
         // // await page.getByRole('link', { name: 'Extraction' }).click();
